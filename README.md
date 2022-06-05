@@ -8,8 +8,8 @@
 
 * [基本调用](./demos/basic)： 默认使用二方包的形式
     * [注解](./demos/basic/annotation_config)
-        * `@Autowired` --TODO
-        * `@DubboReference` --TODO
+        * `@Autowired`
+        * `@DubboReference`
     * [xml配置](./demos/basic/xml_config)
 * 配置参数                                                                   --看下DubboReference和DubboService注解足够了 --TODO
 * [异步调用或执行](./demos/async_and_sync) --TODO
