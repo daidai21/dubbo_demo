@@ -12,7 +12,7 @@
         * `@DubboReference`
     * [xml配置](./demos/basic/xml_config)
 * 配置参数                                                                   --看下DubboReference和DubboService注解足够了 --TODO
-* [异步调用或执行](./demos/async_and_sync) --TODO
+* [异步调用或执行](./demos/async_and_sync)
 * [隐式参数传递 / 上下文信息](./demos/context) --TODO
 * 回调
 * 调用链 chain
