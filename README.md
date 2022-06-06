@@ -20,7 +20,7 @@
 * 限流 sentinel
 * [序列化和反序列化](./demos/serialization) --TODO
     * [protobuf](./demos/serialization/protobuf)
-    * [jackson](./demos/serialization/jackson)
+    * [jackson](./demos/serialization/jackson) --BUG
 * [事务](./demos/transaction) --TODO
 
 ### ref
