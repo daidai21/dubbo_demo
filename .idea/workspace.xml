@@ -4,42 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11657cf8-cd54-470a-bdbd-8b4f719f6597" name="Changes" comment="done: spring_autowired, context, validation">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_4_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_reflectasm_1_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_javakaffee_kryo_serializers_0_42.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_common_3_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_serialization_api_3_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_serialization_kryo_2_7_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/serialization/protobuf/src/main/java/com/example/demo/proto/DemoService.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/serialization/protobuf/src/main/java/com/example/demo/server/DemoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/serialization/protobuf/src/main/resources/dubbo.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/serialization/protobuf/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="11657cf8-cd54-470a-bdbd-8b4f719f6597" name="Changes" comment="done: serialization_kryo">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/serialization/jackson/TODO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/serialization/jackson/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/serialization/jackson/src/main/java/com/example/demo/api/DemoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/serialization/jackson/src/main/java/com/example/demo/client/AppController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/serialization/jackson/src/main/java/com/example/demo/client/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/serialization/jackson/src/main/java/com/example/demo/dto/Request.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/serialization/jackson/src/main/java/com/example/demo/dto/Response.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/serialization/jackson/src/main/java/com/example/demo/server/DemoServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/serialization/jackson/src/main/java/com/example/demo/server/Server.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/serialization/jackson/src/main/resources/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/serialization/jackson/src/main/resources/spring/client.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demos/serialization/protobuf/src/main/resources/spring/client.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/serialization/jackson/src/main/resources/spring/server.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demos/serialization/protobuf/src/main/resources/spring/server.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/serialization/protobuf/src/main/java/com/example/demo/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/demos/serialization/protobuf/src/main/java/com/example/demo/client/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/serialization/protobuf/src/main/java/com/example/demo/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/demos/serialization/protobuf/src/main/java/com/example/demo/server/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +184,7 @@
       <workItem from="1655605568499" duration="2063000" />
       <workItem from="1674904268494" duration="13128000" />
       <workItem from="1674918594989" duration="655000" />
-      <workItem from="1674919254940" duration="982000" />
+      <workItem from="1674919254940" duration="1293000" />
     </task>
     <task id="LOCAL-00001" summary="done: annotation config">
       <created>1654443242589</created>
@@ -270,7 +236,8 @@
     <MESSAGE value="done: annotation config" />
     <MESSAGE value="done: async call" />
     <MESSAGE value="done: spring_autowired, context, validation" />
-    <option name="LAST_COMMIT_MESSAGE" value="done: spring_autowired, context, validation" />
+    <MESSAGE value="done: serialization_kryo" />
+    <option name="LAST_COMMIT_MESSAGE" value="done: serialization_kryo" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
