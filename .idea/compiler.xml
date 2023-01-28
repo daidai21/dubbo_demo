@@ -13,6 +13,7 @@
         <module name="basic_spring_autowired" />
         <module name="validation" />
         <module name="serialization_kryo" />
+        <module name="generic" />
         <module name="basic_annotation_config" />
       </profile>
     </annotationProcessing>
@@ -22,6 +23,7 @@
       <module name="basic_spring_autowired" target="1.7" />
       <module name="basic_xml_config" target="1.7" />
       <module name="context" target="1.7" />
+      <module name="generic" target="1.7" />
       <module name="serialization" target="1.7" />
       <module name="serialization_fastjson" target="1.8" />
       <module name="serialization_kryo" target="1.7" />

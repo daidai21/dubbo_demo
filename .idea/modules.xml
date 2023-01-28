@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/demos/basic/spring_autowired/basic_spring_autowired.iml" filepath="$PROJECT_DIR$/demos/basic/spring_autowired/basic_spring_autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/demos/basic/xml_config/basic_xml_config.iml" filepath="$PROJECT_DIR$/demos/basic/xml_config/basic_xml_config.iml" />
       <module fileurl="file://$PROJECT_DIR$/demos/context/context.iml" filepath="$PROJECT_DIR$/demos/context/context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/generic/generic.iml" filepath="$PROJECT_DIR$/demos/generic/generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/demos/serialization/kryo/serialization_kryo.iml" filepath="$PROJECT_DIR$/demos/serialization/kryo/serialization_kryo.iml" />
       <module fileurl="file://$PROJECT_DIR$/demos/serialization/protobuf/serialization_protobuf.iml" filepath="$PROJECT_DIR$/demos/serialization/protobuf/serialization_protobuf.iml" />
       <module fileurl="file://$PROJECT_DIR$/demos/validation/validation.iml" filepath="$PROJECT_DIR$/demos/validation/validation.iml" />

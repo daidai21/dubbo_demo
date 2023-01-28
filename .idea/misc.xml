@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/demos/validation/pom.xml" />
         <option value="$PROJECT_DIR$/demos/serialization/fastjson/pom.xml" />
         <option value="$PROJECT_DIR$/demos/serialization/kryo/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/generic/pom.xml" />
       </list>
     </option>
   </component>
