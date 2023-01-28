@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demos/async_and_sync/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/basic/annotation_config/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/basic/xml_config/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/serialization/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/serialization/jackson/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/serialization/protobuf/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/basic/spring_autowired/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/context/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/validation/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="temurin-1.8" project-jdk-type="JavaSDK" />
+</project>

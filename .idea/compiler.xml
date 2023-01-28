@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="basic_xml_config" />
+        <module name="async_and_sync" />
+        <module name="context" />
+        <module name="serialization_jackson" />
+        <module name="serialization_protobuf" />
+        <module name="basic_spring_autowired" />
+        <module name="validation" />
+        <module name="basic_annotation_config" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="async_and_sync" target="1.8" />
+      <module name="basic_annotation_config" target="1.7" />
+      <module name="basic_spring_autowired" target="1.7" />
+      <module name="basic_xml_config" target="1.7" />
+      <module name="context" target="1.7" />
+      <module name="serialization" target="1.7" />
+      <module name="serialization_jackson" target="1.8" />
+      <module name="serialization_protobuf" target="1.8" />
+      <module name="transaction" target="1.7" />
+      <module name="validation" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
