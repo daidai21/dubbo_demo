@@ -11,8 +11,12 @@
     <file url="file://$PROJECT_DIR$/demos/basic/xml_config/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demos/context/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demos/context/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/serialization/fastjson/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/serialization/fastjson/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demos/serialization/jackson/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demos/serialization/jackson/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/serialization/kryo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos/serialization/kryo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demos/serialization/protobuf/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demos/serialization/protobuf/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demos/serialization/src/main/java" charset="UTF-8" />

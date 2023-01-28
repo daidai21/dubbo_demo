@@ -9,10 +9,10 @@
         <module name="basic_xml_config" />
         <module name="async_and_sync" />
         <module name="context" />
-        <module name="serialization_jackson" />
         <module name="serialization_protobuf" />
         <module name="basic_spring_autowired" />
         <module name="validation" />
+        <module name="serialization_kryo" />
         <module name="basic_annotation_config" />
       </profile>
     </annotationProcessing>
@@ -23,7 +23,8 @@
       <module name="basic_xml_config" target="1.7" />
       <module name="context" target="1.7" />
       <module name="serialization" target="1.7" />
-      <module name="serialization_jackson" target="1.8" />
+      <module name="serialization_fastjson" target="1.8" />
+      <module name="serialization_kryo" target="1.7" />
       <module name="serialization_protobuf" target="1.8" />
       <module name="transaction" target="1.7" />
       <module name="validation" target="1.7" />
